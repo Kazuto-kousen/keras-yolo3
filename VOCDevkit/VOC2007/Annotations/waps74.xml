@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>waps74.jpg</filename>
+    <path>bee-PascalVOC-export/Annotations/waps74.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>wasp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>96.7965367965368</xmin>
+        <ymin>87.27272727272727</ymin>
+        <xmax>234.63203463203462</xmax>
+        <ymax>215.4112554112554</ymax>
+    </bndbox>
+</object>
+</annotation>

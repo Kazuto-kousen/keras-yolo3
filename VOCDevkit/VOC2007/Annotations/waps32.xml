@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>waps32.jpg</filename>
+    <path>bee-PascalVOC-export/Annotations/waps32.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>wasp</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>51.42857142857142</xmin>
+        <ymin>53.33333333333333</ymin>
+        <xmax>317.05627705627705</xmax>
+        <ymax>258.35497835497836</ymax>
+    </bndbox>
+</object>
+</annotation>

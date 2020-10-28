@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>bee12.jpg</filename>
+    <path>bee-PascalVOC-export/Annotations/bee12.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>64.24242424242424</xmin>
+        <ymin>74.8051948051948</ymin>
+        <xmax>239.82683982683983</xmax>
+        <ymax>252.12121212121212</ymax>
+    </bndbox>
+</object>
+</annotation>

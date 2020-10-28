@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>azami%20(19).jpg</filename>
+    <path>bee-PascalVOC-export/Annotations/azami%20(19).jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>480</width>
+        <height>360</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>thrips</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>20.454545454545457</xmin>
+        <ymin>29.61038961038961</ymin>
+        <xmax>466.5584415584416</xmax>
+        <ymax>305.0649350649351</ymax>
+    </bndbox>
+</object>
+</annotation>

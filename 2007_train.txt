@@ -1,0 +1,453 @@
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(44).jpg 11,4,94,71,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(43).jpg 51,179,488,313,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(42).jpg 137,237,719,386,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(41).jpg 26,57,147,86,2 60,35,144,60,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(40).jpg 58,66,226,139,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(4).jpg 84,114,393,252,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(39).jpg 78,111,391,216,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(38).jpg 17,37,463,297,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(36).jpg 467,253,659,409,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(35).jpg 20,28,99,64,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(34).jpg 164,117,397,681,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(33).jpg 83,53,271,208,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(32).jpg 119,56,226,315,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(31).jpg 95,165,580,296,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(30).jpg 190,98,325,281,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(3).jpg 236,128,948,431,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(29).jpg 172,10,218,158,2 90,27,133,155,2 15,28,49,141,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(28).jpg 46,64,274,238,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(27).jpg 186,92,268,331,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(26).jpg 57,35,83,75,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(25).jpg 203,114,301,225,2 448,201,589,245,2 104,29,151,154,2 442,304,508,427,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(23).jpg 91,67,200,160,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(22).jpg 132,136,576,295,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(21).jpg 167,125,341,293,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(20).jpg 379,278,751,671,2 437,42,760,364,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(2).jpg 63,100,432,256,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(19).jpg 20,29,466,305,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(18).jpg 88,99,171,162,2 183,116,245,166,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(17).jpg 28,92,452,269,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(16).jpg 110,21,232,328,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(15).jpg 217,57,349,408,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(14).jpg 97,152,268,331,2 368,288,548,375,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(13).jpg 25,44,297,200,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(12).jpg 65,4,140,198,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(11).jpg 134,202,657,346,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(10).jpg 78,55,253,210,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps62.jpg 138,111,259,206,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps61.jpg 101,5,227,127,1 113,211,231,317,1 45,218,110,283,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps60.jpg 150,96,261,180,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps6.jpg 55,62,284,244,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps59.jpg 137,143,240,223,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps58.jpg 117,135,190,247,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps57.jpg 74,53,238,228,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps56.jpg 69,14,273,295,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps55.jpg 118,136,193,215,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps54.jpg 19,48,308,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps51.jpg 13,96,236,256,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps50.jpg 104,124,187,220,1 28,175,111,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps5.jpg 5,72,260,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps49.jpg 34,90,130,157,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps48.jpg 40,88,243,219,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps47.jpg 134,81,265,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps46.jpg 91,85,228,239,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps45.jpg 122,143,213,233,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps44.jpg 163,116,302,227,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps43.jpg 49,65,280,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps42.jpg 28,69,290,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps41.jpg 16,48,307,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps40.jpg 54,0,246,272,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps4.jpg 96,125,256,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps39.jpg 30,105,262,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps38.jpg 87,119,210,214,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps37.jpg 37,54,215,268,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps36.jpg 44,74,232,245,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps35.jpg 49,90,214,238,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps34.jpg 32,74,230,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps33.jpg 3,97,310,251,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps32.jpg 51,53,317,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps31.jpg 22,50,311,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps30.jpg 107,84,253,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps3.jpg 118,113,203,196,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps29.jpg 94,79,265,222,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps28.jpg 31,66,296,259,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps27.jpg 85,123,220,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps26.jpg 47,118,157,220,1 128,181,218,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps25.jpg 69,69,259,249,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps24.jpg 33,73,309,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps23.jpg 95,65,296,226,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps22.jpg 86,123,178,231,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps21.jpg 3,73,317,266,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps20.jpg 112,91,247,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps2.jpg 74,39,320,273,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps19.jpg 63,86,270,263,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps18.jpg 115,100,215,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps17.jpg 78,89,248,252,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps16.jpg 86,82,234,264,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps15.jpg 20,78,300,255,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps14.jpg 90,95,293,213,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps13.jpg 116,92,214,216,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps12.jpg 69,115,217,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps11.jpg 0,62,148,270,1 173,94,300,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps10.jpg 76,112,204,211,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps1.jpg 23,39,304,229,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee62.jpg 149,124,266,244,0 39,153,148,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee61.jpg 59,107,154,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee60.jpg 105,113,235,212,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee6.jpg 89,68,307,279,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee59.jpg 7,64,150,139,0 174,61,309,142,0 174,156,308,247,0 11,149,151,247,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee58.jpg 10,102,194,226,0 157,139,292,247,0 191,91,317,160,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee57.jpg 6,63,118,130,0 210,86,247,146,0 23,184,95,252,0 186,165,261,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee55.jpg 94,119,229,211,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee54.jpg 138,120,274,207,1 74,94,122,126,0 37,137,77,164,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee53.jpg 14,68,289,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee52.jpg 4,56,151,171,0 166,154,301,278,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee51.jpg 26,22,119,87,0 124,24,204,86,0 213,22,283,86,0 34,93,113,153,0 128,93,205,156,0 215,90,284,149,0 34,161,107,216,0 121,169,198,209,0 210,161,290,208,0 36,226,108,273,0 120,221,203,275,0 204,223,291,270,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee50.jpg 37,56,267,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee5.jpg 20,98,233,251,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee49.jpg 94,52,205,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee48.jpg 32,95,295,249,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee47.jpg 207,85,290,150,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee46.jpg 0,117,171,251,0 153,42,240,234,0 204,42,292,194,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee45.jpg 128,51,309,251,0 0,54,143,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee44.jpg 189,109,289,182,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee43.jpg 17,85,148,195,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee42.jpg 96,77,293,224,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee41.jpg 84,121,191,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee40.jpg 65,86,171,191,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee4.jpg 40,109,203,216,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee39.jpg 147,190,217,248,0 191,74,237,127,0 226,92,290,142,0 123,118,187,192,0 199,146,267,202,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee38.jpg 135,129,250,203,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee37.jpg 57,96,282,260,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee36.jpg 62,93,283,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee35.jpg 6,70,255,226,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee34.jpg 0,70,303,217,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee33.jpg 71,72,236,210,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee32.jpg 14,46,288,265,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee31.jpg 135,70,292,186,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee30.jpg 98,85,215,217,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee3.jpg 40,70,202,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee29.jpg 152,147,265,249,0 39,117,166,214,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee28.jpg 144,110,263,218,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee27.jpg 19,39,266,273,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee26.jpg 37,98,205,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee25.jpg 101,118,288,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee24.jpg 120,85,226,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee23.jpg 100,47,259,171,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee22.jpg 91,98,232,219,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee21.jpg 108,46,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee20.jpg 83,123,173,240,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee2.jpg 26,79,317,286,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee19.jpg 70,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee18.jpg 73,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee17.jpg 42,41,283,248,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee16.jpg 121,90,261,198,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee15.jpg 83,75,246,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee14.jpg 91,75,251,236,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee13.jpg 50,59,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee12.jpg 64,74,239,252,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee11.jpg 87,116,269,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee10.jpg 139,123,230,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee1.jpg 46,77,227,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(44).jpg 11,4,94,71,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(43).jpg 51,179,488,313,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(42).jpg 137,237,719,386,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(41).jpg 26,57,147,86,2 60,35,144,60,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(40).jpg 58,66,226,139,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(4).jpg 84,114,393,252,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(39).jpg 78,111,391,216,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(38).jpg 17,37,463,297,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(36).jpg 467,253,659,409,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(35).jpg 20,28,99,64,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(34).jpg 164,117,397,681,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(33).jpg 83,53,271,208,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(32).jpg 119,56,226,315,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(31).jpg 95,165,580,296,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(30).jpg 190,98,325,281,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(3).jpg 236,128,948,431,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(29).jpg 172,10,218,158,2 90,27,133,155,2 15,28,49,141,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(28).jpg 46,64,274,238,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(27).jpg 186,92,268,331,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(26).jpg 57,35,83,75,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(25).jpg 203,114,301,225,2 448,201,589,245,2 104,29,151,154,2 442,304,508,427,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(23).jpg 91,67,200,160,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(22).jpg 132,136,576,295,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(21).jpg 167,125,341,293,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(20).jpg 379,278,751,671,2 437,42,760,364,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(2).jpg 63,100,432,256,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(19).jpg 20,29,466,305,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(18).jpg 88,99,171,162,2 183,116,245,166,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(17).jpg 28,92,452,269,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(16).jpg 110,21,232,328,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(15).jpg 217,57,349,408,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(14).jpg 97,152,268,331,2 368,288,548,375,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(13).jpg 25,44,297,200,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(12).jpg 65,4,140,198,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(11).jpg 134,202,657,346,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(10).jpg 78,55,253,210,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps62.jpg 138,111,259,206,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps61.jpg 101,5,227,127,1 113,211,231,317,1 45,218,110,283,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps60.jpg 150,96,261,180,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps6.jpg 55,62,284,244,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps59.jpg 137,143,240,223,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps58.jpg 117,135,190,247,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps57.jpg 74,53,238,228,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps56.jpg 69,14,273,295,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps55.jpg 118,136,193,215,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps54.jpg 19,48,308,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps51.jpg 13,96,236,256,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps50.jpg 104,124,187,220,1 28,175,111,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps5.jpg 5,72,260,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps49.jpg 34,90,130,157,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps48.jpg 40,88,243,219,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps47.jpg 134,81,265,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps46.jpg 91,85,228,239,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps45.jpg 122,143,213,233,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps44.jpg 163,116,302,227,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps43.jpg 49,65,280,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps42.jpg 28,69,290,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps41.jpg 16,48,307,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps40.jpg 54,0,246,272,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps4.jpg 96,125,256,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps39.jpg 30,105,262,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps38.jpg 87,119,210,214,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps37.jpg 37,54,215,268,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps36.jpg 44,74,232,245,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps35.jpg 49,90,214,238,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps34.jpg 32,74,230,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps33.jpg 3,97,310,251,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps32.jpg 51,53,317,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps31.jpg 22,50,311,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps30.jpg 107,84,253,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps3.jpg 118,113,203,196,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps29.jpg 94,79,265,222,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps28.jpg 31,66,296,259,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps27.jpg 85,123,220,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps26.jpg 47,118,157,220,1 128,181,218,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps25.jpg 69,69,259,249,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps24.jpg 33,73,309,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps23.jpg 95,65,296,226,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps22.jpg 86,123,178,231,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps21.jpg 3,73,317,266,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps20.jpg 112,91,247,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps2.jpg 74,39,320,273,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps19.jpg 63,86,270,263,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps18.jpg 115,100,215,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps17.jpg 78,89,248,252,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps16.jpg 86,82,234,264,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps15.jpg 20,78,300,255,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps14.jpg 90,95,293,213,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps13.jpg 116,92,214,216,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps12.jpg 69,115,217,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps11.jpg 0,62,148,270,1 173,94,300,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps10.jpg 76,112,204,211,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps1.jpg 23,39,304,229,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee62.jpg 149,124,266,244,0 39,153,148,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee61.jpg 59,107,154,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee60.jpg 105,113,235,212,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee6.jpg 89,68,307,279,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee59.jpg 7,64,150,139,0 174,61,309,142,0 174,156,308,247,0 11,149,151,247,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee58.jpg 10,102,194,226,0 157,139,292,247,0 191,91,317,160,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee57.jpg 6,63,118,130,0 210,86,247,146,0 23,184,95,252,0 186,165,261,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee55.jpg 94,119,229,211,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee54.jpg 138,120,274,207,1 74,94,122,126,0 37,137,77,164,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee53.jpg 14,68,289,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee52.jpg 4,56,151,171,0 166,154,301,278,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee51.jpg 26,22,119,87,0 124,24,204,86,0 213,22,283,86,0 34,93,113,153,0 128,93,205,156,0 215,90,284,149,0 34,161,107,216,0 121,169,198,209,0 210,161,290,208,0 36,226,108,273,0 120,221,203,275,0 204,223,291,270,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee50.jpg 37,56,267,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee5.jpg 20,98,233,251,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee49.jpg 94,52,205,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee48.jpg 32,95,295,249,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee47.jpg 207,85,290,150,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee46.jpg 0,117,171,251,0 153,42,240,234,0 204,42,292,194,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee45.jpg 128,51,309,251,0 0,54,143,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee44.jpg 189,109,289,182,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee43.jpg 17,85,148,195,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee42.jpg 96,77,293,224,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee41.jpg 84,121,191,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee40.jpg 65,86,171,191,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee4.jpg 40,109,203,216,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee39.jpg 147,190,217,248,0 191,74,237,127,0 226,92,290,142,0 123,118,187,192,0 199,146,267,202,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee38.jpg 135,129,250,203,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee37.jpg 57,96,282,260,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee36.jpg 62,93,283,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee35.jpg 6,70,255,226,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee34.jpg 0,70,303,217,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee33.jpg 71,72,236,210,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee32.jpg 14,46,288,265,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee31.jpg 135,70,292,186,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee30.jpg 98,85,215,217,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee3.jpg 40,70,202,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee29.jpg 152,147,265,249,0 39,117,166,214,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee28.jpg 144,110,263,218,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee27.jpg 19,39,266,273,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee26.jpg 37,98,205,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee25.jpg 101,118,288,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee24.jpg 120,85,226,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee23.jpg 100,47,259,171,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee22.jpg 91,98,232,219,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee21.jpg 108,46,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee20.jpg 83,123,173,240,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee2.jpg 26,79,317,286,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee19.jpg 70,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee18.jpg 73,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee17.jpg 42,41,283,248,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee16.jpg 121,90,261,198,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee15.jpg 83,75,246,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee14.jpg 91,75,251,236,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee13.jpg 50,59,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee12.jpg 64,74,239,252,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee11.jpg 87,116,269,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee10.jpg 139,123,230,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee1.jpg 46,77,227,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(44).jpg 11,4,94,71,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(43).jpg 51,179,488,313,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(42).jpg 137,237,719,386,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(41).jpg 26,57,147,86,2 60,35,144,60,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(40).jpg 58,66,226,139,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(4).jpg 84,114,393,252,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(39).jpg 78,111,391,216,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(38).jpg 17,37,463,297,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(36).jpg 467,253,659,409,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(35).jpg 20,28,99,64,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(34).jpg 164,117,397,681,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(33).jpg 83,53,271,208,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(32).jpg 119,56,226,315,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(31).jpg 95,165,580,296,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(30).jpg 190,98,325,281,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(3).jpg 236,128,948,431,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(29).jpg 172,10,218,158,2 90,27,133,155,2 15,28,49,141,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(28).jpg 46,64,274,238,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(27).jpg 186,92,268,331,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(26).jpg 57,35,83,75,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(25).jpg 203,114,301,225,2 448,201,589,245,2 104,29,151,154,2 442,304,508,427,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(23).jpg 91,67,200,160,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(22).jpg 132,136,576,295,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(21).jpg 167,125,341,293,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(20).jpg 379,278,751,671,2 437,42,760,364,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(2).jpg 63,100,432,256,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(19).jpg 20,29,466,305,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(18).jpg 88,99,171,162,2 183,116,245,166,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(17).jpg 28,92,452,269,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(16).jpg 110,21,232,328,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(15).jpg 217,57,349,408,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(14).jpg 97,152,268,331,2 368,288,548,375,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(13).jpg 25,44,297,200,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(12).jpg 65,4,140,198,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(11).jpg 134,202,657,346,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/azami%20(10).jpg 78,55,253,210,2
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps62.jpg 138,111,259,206,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps61.jpg 101,5,227,127,1 113,211,231,317,1 45,218,110,283,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps60.jpg 150,96,261,180,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps6.jpg 55,62,284,244,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps59.jpg 137,143,240,223,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps58.jpg 117,135,190,247,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps57.jpg 74,53,238,228,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps56.jpg 69,14,273,295,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps55.jpg 118,136,193,215,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps54.jpg 19,48,308,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps51.jpg 13,96,236,256,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps50.jpg 104,124,187,220,1 28,175,111,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps5.jpg 5,72,260,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps49.jpg 34,90,130,157,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps48.jpg 40,88,243,219,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps47.jpg 134,81,265,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps46.jpg 91,85,228,239,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps45.jpg 122,143,213,233,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps44.jpg 163,116,302,227,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps43.jpg 49,65,280,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps42.jpg 28,69,290,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps41.jpg 16,48,307,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps40.jpg 54,0,246,272,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps4.jpg 96,125,256,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps39.jpg 30,105,262,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps38.jpg 87,119,210,214,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps37.jpg 37,54,215,268,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps36.jpg 44,74,232,245,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps35.jpg 49,90,214,238,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps34.jpg 32,74,230,243,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps33.jpg 3,97,310,251,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps32.jpg 51,53,317,258,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps31.jpg 22,50,311,276,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps30.jpg 107,84,253,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps3.jpg 118,113,203,196,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps29.jpg 94,79,265,222,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps28.jpg 31,66,296,259,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps27.jpg 85,123,220,220,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps26.jpg 47,118,157,220,1 128,181,218,242,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps25.jpg 69,69,259,249,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps24.jpg 33,73,309,241,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps23.jpg 95,65,296,226,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps22.jpg 86,123,178,231,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps21.jpg 3,73,317,266,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps20.jpg 112,91,247,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps2.jpg 74,39,320,273,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps19.jpg 63,86,270,263,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps18.jpg 115,100,215,209,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps17.jpg 78,89,248,252,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps16.jpg 86,82,234,264,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps15.jpg 20,78,300,255,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps14.jpg 90,95,293,213,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps13.jpg 116,92,214,216,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps12.jpg 69,115,217,205,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps11.jpg 0,62,148,270,1 173,94,300,240,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps10.jpg 76,112,204,211,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/waps1.jpg 23,39,304,229,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee62.jpg 149,124,266,244,0 39,153,148,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee61.jpg 59,107,154,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee60.jpg 105,113,235,212,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee6.jpg 89,68,307,279,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee59.jpg 7,64,150,139,0 174,61,309,142,0 174,156,308,247,0 11,149,151,247,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee58.jpg 10,102,194,226,0 157,139,292,247,0 191,91,317,160,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee57.jpg 6,63,118,130,0 210,86,247,146,0 23,184,95,252,0 186,165,261,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee55.jpg 94,119,229,211,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee54.jpg 138,120,274,207,1 74,94,122,126,0 37,137,77,164,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee53.jpg 14,68,289,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee52.jpg 4,56,151,171,0 166,154,301,278,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee51.jpg 26,22,119,87,0 124,24,204,86,0 213,22,283,86,0 34,93,113,153,0 128,93,205,156,0 215,90,284,149,0 34,161,107,216,0 121,169,198,209,0 210,161,290,208,0 36,226,108,273,0 120,221,203,275,0 204,223,291,270,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee50.jpg 37,56,267,242,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee5.jpg 20,98,233,251,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee49.jpg 94,52,205,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee48.jpg 32,95,295,249,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee47.jpg 207,85,290,150,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee46.jpg 0,117,171,251,0 153,42,240,234,0 204,42,292,194,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee45.jpg 128,51,309,251,0 0,54,143,261,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee44.jpg 189,109,289,182,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee43.jpg 17,85,148,195,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee42.jpg 96,77,293,224,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee41.jpg 84,121,191,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee40.jpg 65,86,171,191,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee4.jpg 40,109,203,216,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee39.jpg 147,190,217,248,0 191,74,237,127,0 226,92,290,142,0 123,118,187,192,0 199,146,267,202,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee38.jpg 135,129,250,203,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee37.jpg 57,96,282,260,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee36.jpg 62,93,283,258,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee35.jpg 6,70,255,226,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee34.jpg 0,70,303,217,1
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee33.jpg 71,72,236,210,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee32.jpg 14,46,288,265,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee31.jpg 135,70,292,186,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee30.jpg 98,85,215,217,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee3.jpg 40,70,202,199,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee29.jpg 152,147,265,249,0 39,117,166,214,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee28.jpg 144,110,263,218,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee27.jpg 19,39,266,273,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee26.jpg 37,98,205,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee25.jpg 101,118,288,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee24.jpg 120,85,226,176,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee23.jpg 100,47,259,171,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee22.jpg 91,98,232,219,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee21.jpg 108,46,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee20.jpg 83,123,173,240,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee2.jpg 26,79,317,286,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee19.jpg 70,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee18.jpg 73,98,291,245,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee17.jpg 42,41,283,248,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee16.jpg 121,90,261,198,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee15.jpg 83,75,246,237,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee14.jpg 91,75,251,236,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee13.jpg 50,59,245,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee12.jpg 64,74,239,252,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee11.jpg 87,116,269,244,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee10.jpg 139,123,230,221,0
+C:\Users\tsunoda\Desktop\keras-yolo3/VOCdevkit/VOC2007/JPEGImages/bee1.jpg 46,77,227,242,0

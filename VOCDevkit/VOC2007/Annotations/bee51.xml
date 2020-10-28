@@ -1,0 +1,147 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>bee51.jpg</filename>
+    <path>bee-PascalVOC-export/Annotations/bee51.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>320</width>
+        <height>320</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>26.839826839826838</xmin>
+        <ymin>22.51082251082251</ymin>
+        <xmax>119.65367965367965</xmax>
+        <ymax>87.96536796536796</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>124.50216450216449</xmin>
+        <ymin>24.935064935064933</ymin>
+        <xmax>204.84848484848482</xmax>
+        <ymax>86.23376623376623</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>213.16017316017314</xmin>
+        <ymin>22.857142857142858</ymin>
+        <xmax>283.8095238095238</xmax>
+        <ymax>86.23376623376623</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>34.458874458874455</xmin>
+        <ymin>93.16017316017316</ymin>
+        <xmax>113.4199134199134</xmax>
+        <ymax>153.76623376623377</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>128.65800865800864</xmin>
+        <ymin>93.5064935064935</ymin>
+        <xmax>205.19480519480516</xmax>
+        <ymax>156.88311688311688</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>215.23809523809524</xmin>
+        <ymin>90.38961038961038</ymin>
+        <xmax>284.8484848484849</xmax>
+        <ymax>149.6103896103896</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>34.8051948051948</xmin>
+        <ymin>161.73160173160173</ymin>
+        <xmax>107.53246753246752</xmax>
+        <ymax>216.45021645021643</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>121.2121212121212</xmin>
+        <ymin>169.004329004329</ymin>
+        <xmax>198.61471861471858</xmax>
+        <ymax>209.87012987012986</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>210.73593073593074</xmin>
+        <ymin>161.3852813852814</ymin>
+        <xmax>290.04329004329</xmax>
+        <ymax>208.13852813852813</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>36.53679653679654</xmin>
+        <ymin>226.4935064935065</ymin>
+        <xmax>108.57142857142856</xmax>
+        <ymax>273.93939393939394</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>120</xmin>
+        <ymin>221.2987012987013</ymin>
+        <xmax>203.8095238095238</xmax>
+        <ymax>275.32467532467535</ymax>
+    </bndbox>
+</object><object>
+    <name>honeybee</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>204.15584415584414</xmin>
+        <ymin>223.7229437229437</ymin>
+        <xmax>291.4285714285714</xmax>
+        <ymax>270.8225108225108</ymax>
+    </bndbox>
+</object>
+</annotation>
